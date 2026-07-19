@@ -1,11 +1,13 @@
 <h1 align="center">🌸 Welcome to My GitHub Profile 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=26&duration=3000&pause=1000&color=FF6B9D&background=00000000&center=true&vCenter=true&width=900&height=60&lines=合肥工业大学%2C软件工程在读%3BC%2FC%2B%2B%2C嵌入式开发%2Cpython网站开发%3B用代码记录学习%2C用实践积累成长" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=26&duration=4500&pause=2000&color=FF6B9D&background=00000000&center=true&vCenter=true&width=900&height=60&lines=%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%E6%99%BA%E8%83%BD%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2-%E5%9C%A8%E8%AF%BB%E5%AD%A6%E7%94%9F%3BC%2FC%2B%2B%E5%BC%80%E5%8F%91%EF%BC%8CPython%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91%EF%BC%8C%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%3B%E7%94%A8%E4%BB%A3%E7%A0%81%E8%AE%B0%E5%BD%95%E5%AD%A6%E4%B9%A0%EF%BC%8C%E7%94%A8%E5%AE%9E%E8%B7%B5%E7%A7%AF%E7%B4%AF%E6%88%90%E9%95%BF" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,12,19,24,30&height=3&section=header" width="100%" alt="Header Line" />
 </p>
+
 ---
 
 ## 🌟 关于我
