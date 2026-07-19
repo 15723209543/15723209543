@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=26&duration=3000&pause=1000&color=FF6B9D&background=00000000&center=true&vCenter=true&width=900&height=60&lines=合肥工业大学%2C软件工程在读%3BC%2FC%2B%2B%2C嵌入式开发%2Cpython网站开发%3B用代码记录学习%2C用实践积累成长" alt="Typing SVG" />
 </p>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,12,19,24,30&height=3&section=header" width="100%" alt="Header Line" />
 </p>
