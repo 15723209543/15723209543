@@ -61,23 +61,25 @@
 
 - [班级作业检查系统](https://github.com/15723209543/homework-submission-audit)  
   面向班级作业提交场景，完成文件检查、错误分类与结果输出。
-
 - [人才与机会智能匹配](https://github.com/15723209543/match-talent-opportunities)  
   探索人才画像、岗位匹配、能力评估与发展建议等智能应用场景。
-
 - [数据结构实验生成工具](https://github.com/15723209543/HFUT-Data-Structures-Lab-Builder)  
   服务于数据结构课程实验与代码组织，提高学习和实验整理效率。
-
 - [证据矩阵检索研判 Skill](https://github.com/15723209543/evidence-matrix-research)  
   支持多源检索、冲突识别、证据整合与可审计报告输出。
-
 - [互助帮——大学生学习互助网站](https://github.com/15723209543/huzhubang-website)  
   提供课程资料、学习答疑、学习搭子匹配与校园信息整理功能。
+- [README 与 LICENSE 生成 Skill](https://github.com/15723209543/make-readme-and-license)  
+  根据项目真实证据填写固定模板，生成 README.md 与 LICENSE.md，并完成模板约束、隐私扫描、静态校验和 ZIP 打包。
+- [GitHub 主页 README 生成 Skill](https://github.com/15723209543/mygithub-home-readme-maker)  
+  根据公开 GitHub 证据生成可直接上传的主页 README，支持主页图片元数据清理、隐私检查、静态校验与 ZIP 复查。
 
 ### 🏫 课程设计与实用系统
 
 - [校园水电煤气管理系统](https://github.com/15723209543/HFUT-Campus-Utility-Billing-Management-System)  
   基于 C++ 面向对象设计，实现信息录入、费用计算、缴费与欠费查询。
+- [合肥工业大学宣城校区校园导游咨询系统](https://github.com/15723209543/HFUT-navigation-system-with-dijkstra-algorithm)  
+  基于 C++、带权无向图与 Dijkstra 算法，实现地点查询、普通最短路径、指定途经点、避开指定点及综合限制路径规划。
 
 
 ### ♟️ 游戏与综合项目
