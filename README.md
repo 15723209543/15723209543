@@ -47,7 +47,7 @@
 
 ---
 
-## 📌 代表项目
+## 📌 个人项目
 
 ### 🤖 嵌入式与竞赛实践
 
@@ -57,47 +57,60 @@
 - [基于 STM32 的合肥工业大学校史展示系统](https://github.com/15723209543/HFUT-history-bySTM32)  
   使用 STM32、OLED、按键、LED 与蜂鸣器完成交互式历史展示。
 
-### 🧠 学习工具与智能应用
-
-- [班级作业检查系统](https://github.com/15723209543/homework-submission-audit)  
-  面向班级作业提交场景，完成文件检查、错误分类与结果输出。
-- [人才与机会智能匹配](https://github.com/15723209543/match-talent-opportunities)  
-  探索人才画像、岗位匹配、能力评估与发展建议等智能应用场景。
-- [数据结构实验生成工具](https://github.com/15723209543/HFUT-Data-Structures-Lab-Builder)  
-  服务于数据结构课程实验与代码组织，提高学习和实验整理效率。
-- [证据矩阵检索研判 Skill](https://github.com/15723209543/evidence-matrix-research)  
-  支持多源检索、冲突识别、证据整合与可审计报告输出。
-- [互助帮——大学生学习互助网站](https://github.com/15723209543/huzhubang-website)  
-  提供课程资料、学习答疑、学习搭子匹配与校园信息整理功能。
-- [README 与 LICENSE 生成 Skill](https://github.com/15723209543/make-readme-and-license)  
-  根据项目真实证据填写固定模板，生成 README.md 与 LICENSE.md，并完成模板约束、隐私扫描、静态校验和 ZIP 打包。
-- [GitHub 主页 README 生成 Skill](https://github.com/15723209543/mygithub-home-readme-maker)  
-  根据公开 GitHub 证据生成可直接上传的主页 README，支持主页图片元数据清理、隐私检查、静态校验与 ZIP 复查。
-
 ### 🏫 课程设计与实用系统
 
 - [校园水电煤气管理系统](https://github.com/15723209543/HFUT-Campus-Utility-Billing-Management-System)  
   基于 C++ 面向对象设计，实现信息录入、费用计算、缴费与欠费查询。
+
 - [合肥工业大学宣城校区校园导游咨询系统](https://github.com/15723209543/HFUT-navigation-system-with-dijkstra-algorithm)  
-  基于 C++、带权无向图与 Dijkstra 算法，实现地点查询、普通最短路径、指定途经点、避开指定点及综合限制路径规划。
+  基于 C++、带权无向图与 Dijkstra 算法，实现地点查询、最短路径及多种限制条件下的路径规划。
 
 
-### ♟️ 游戏与综合项目
+### 📚 学习工具
+
+- [班级作业检查系统](https://github.com/15723209543/homework-submission-audit)  
+  面向班级作业提交场景，完成文件检查、错误分类与结果输出。
+- [互助帮——大学生学习互助网站](https://github.com/15723209543/huzhubang-website)  
+  提供课程资料、学习答疑、学习搭子匹配与校园信息整理功能。
+
+### 🧠 人工智能应用和 Skill
+
+- [人才与机会智能匹配](https://github.com/15723209543/match-talent-opportunities)  
+  探索人才画像、岗位匹配、能力评估与发展建议等智能应用场景。
+- [证据矩阵检索研判 Skill](https://github.com/15723209543/evidence-matrix-research)  
+  支持多源检索、冲突识别、证据整合与可审计报告输出。
+- [README 与 LICENSE 生成 Skill](https://github.com/15723209543/make-readme-and-license)  
+  根据项目真实证据填写固定模板，完成 README、LICENSE、隐私检查、静态校验与 ZIP 打包。
+- [GitHub 主页 README 生成 Skill](https://github.com/15723209543/mygithub-home-readme-maker)  
+  根据公开 GitHub 证据生成可直接上传的主页 README，并完成图片处理、隐私检查和静态校验。
+- [数据结构实验生成工具](https://github.com/15723209543/HFUT-Data-Structures-Lab-Builder)  
+  服务于数据结构课程实验与代码组织，提高学习、测试和实验整理效率。
+
+### 🎮 游戏项目
 
 - [棋奕六合一游戏平台](https://github.com/15723209543/chessgame)  
-  整合多种棋类玩法的本地程序与网页游戏平台。
+  整合多种棋类玩法，提供本地程序与网页端的综合棋类游戏平台。
+
 - [重庆地图大富翁](https://github.com/15723209543/MonopolyGame_map-with-chongqing)  
   以重庆地图为主题设计的大富翁游戏项目。
+
+- [一掷千金游戏](https://github.com/15723209543/OneThrowRich-game)  
+  基于 C++17、EasyX、随机洗牌与启发式报价，实现分轮开箱、报价决策与最终结算。
+
+### 📈 游戏分析项目
+
 - [第五人格监管者首抓分析器](https://github.com/15723209543/Identity-V-First-Chase-Analyzer)  
   基于 C++、EasyX、地图寻路与参数化模型分析监管者首追目标。
+
+- [IVL 赛事排名分析与预测](https://github.com/15723209543/IVL_analyse)  
+  基于 C++20、随机模拟与压缩状态精确穷举，分析 IVL 赛事积分并预测最终排名。
 
 ---
 
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=15723209543&theme=default" alt="GitHub Stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=15723209543&theme=default" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/15723209543?template=classic&base.header=1&base.community=1&base.repositories=1&base.metadata=1&config.timezone=Asia%2FShanghai&config.animated=true&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&isocalendar=1&isocalendar.duration=full-year&people=1&people.types=followers" width="100%" alt="GitHub 实时开发活动数据" />
 </p>
 
 ---
