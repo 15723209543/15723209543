@@ -91,6 +91,15 @@
 - [棋奕六合一游戏平台](https://github.com/15723209543/chessgame)  
   整合多种棋类玩法，提供本地程序与网页端的综合棋类游戏平台。
 
+- [跳棋游戏](https://github.com/15723209543/chinese-checker)  
+  基于 C++17 与 EasyX 实现标准 121 孔跳棋，支持 2–6 人、连续跳跃、计时排名与机器人对局。
+
+- [中国象棋](https://github.com/15723209543/xiangqi_game)  
+  基于 C++17 与 EasyX 实现完整象棋规则，并接入 Pikafish 与 NNUE，支持高质量机器人对战。
+
+- [飞行棋游戏](https://github.com/15723209543/FlightChess-GAME)  
+  基于 C++ 与 EasyX 实现 2–6 人飞行棋，支持计时、特殊棋盘规则、完整排名与机器人玩家。
+
 - [重庆地图大富翁](https://github.com/15723209543/MonopolyGame_map-with-chongqing)  
   以重庆地图为主题设计的大富翁游戏项目。
 
@@ -109,9 +118,25 @@
 
 ## 📊 GitHub 数据
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/15723209543?template=classic&base.header=1&base.community=1&base.repositories=1&base.metadata=1&config.timezone=Asia%2FShanghai&config.animated=true&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&isocalendar=1&isocalendar.duration=full-year&people=1&people.types=followers" width="100%" alt="GitHub 实时开发活动数据" />
-</p>
+<div align="center">
+
+### 📈 GitHub 总体统计
+
+<img src="https://github-readme-stats.vercel.app/api?username=15723209543&show_icons=true&locale=cn&include_all_commits=true&hide_border=false&border_radius=10&cache_seconds=21600" width="82%" alt="GitHub 总体统计" />
+
+<br>
+
+### 💻 最常使用语言
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15723209543&layout=compact&langs_count=8&locale=cn&hide_border=false&border_radius=10&card_width=700" width="82%" alt="GitHub 最常使用语言" />
+
+<br>
+
+### 🔥 连续贡献与总贡献
+
+<img src="https://streak-stats.demolab.com/?user=15723209543&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=700&hide_border=false&border_radius=10" width="82%" alt="GitHub 连续贡献与总贡献" />
+
+</div>
 
 ---
 
