@@ -120,21 +120,17 @@
 
 <div align="center">
 
-### 📈 GitHub 总体统计
-
-<img src="https://github-readme-stats.vercel.app/api?username=15723209543&show_icons=true&locale=cn&include_all_commits=true&hide_border=false&border_radius=10&cache_seconds=21600" width="82%" alt="GitHub 总体统计" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=15723209543&theme=github" width="100%" alt="GitHub Profile Details" />
 
 <br>
 
-### 💻 最常使用语言
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15723209543&layout=compact&langs_count=8&locale=cn&hide_border=false&border_radius=10&card_width=700" width="82%" alt="GitHub 最常使用语言" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=15723209543&theme=github" width="49%" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=15723209543&theme=github" width="49%" alt="Most Commit Language" />
 
 <br>
 
-### 🔥 连续贡献与总贡献
-
-<img src="https://streak-stats.demolab.com/?user=15723209543&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=700&hide_border=false&border_radius=10" width="82%" alt="GitHub 连续贡献与总贡献" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=15723209543&theme=github" width="49%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=15723209543&theme=github&utcOffset=8" width="49%" alt="Productive Time" />
 
 </div>
 
