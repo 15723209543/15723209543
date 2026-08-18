@@ -124,9 +124,8 @@
 
 <br>
 
-### 💻 语言分布（合并展示，显示更多语言）
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15723209543&layout=compact&langs_count=12&locale=cn&hide_border=false&border_radius=10&card_width=900&size_weight=0.5&count_weight=0.5" width="100%" alt="GitHub 最常使用语言" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=15723209543&theme=github" width="49%" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=15723209543&theme=github" width="49%" alt="Most Commit Language" />
 
 <br>
 
