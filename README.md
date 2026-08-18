@@ -10,7 +10,7 @@
 ## 🌟 关于我
 
 <p align="center">
-  <img src="image/about-me.jpg" width="100%" alt="About Me Image" />
+  <img src="https://github.com/15723209543/15723209543/blob/main/image/about-me.jpg?raw=1" width="100%" alt="About Me Image" />
 </p>
 
 > “微光不必耀眼，只要曾照亮前行的路，便足以成为青春的方向。” ✨
@@ -125,7 +125,7 @@
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=15723209543&theme=github" width="49%" alt="Repos Per Language" />
-<img src="https://github-profile-trophy.vercel.app/?username=15723209543&theme=flat&column=3&row=2&margin-w=6&margin-h=6&no-frame=true&no-bg=true" width="49%" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=15723209543&theme=github" width="49%" alt="Most Commit Language" />
 
 <br>
 
