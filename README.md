@@ -125,7 +125,7 @@
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=15723209543&theme=github" width="49%" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=15723209543&theme=github" width="49%" alt="Most Commit Language" />
+<img src="https://github-profile-trophy.vercel.app/?username=15723209543&theme=flat&column=3&row=2&margin-w=6&margin-h=6&no-frame=true&no-bg=true" width="49%" alt="GitHub Trophies" />
 
 <br>
 
