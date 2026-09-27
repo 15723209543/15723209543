@@ -13,8 +13,6 @@
 <p align="center">
   <img src="https://github.com/15723209543/15723209543/blob/main/image/about-me.jpg?raw=1" width="100%" alt="About Me Image" />
 </p>
-
-
 > “微光不必耀眼，只要曾照亮前行的路，便足以成为青春的方向。” ✨
 
 - 🎓 **学校专业**：合肥工业大学 · 智能软件工程学院 · 软件工程
@@ -129,17 +127,10 @@
   基于 C++17 与 EasyX 实现标准 121 孔跳棋，支持 2–6 人、连续跳跃、计时排名与机器人对局。
 
 - [中国象棋](https://github.com/15723209543/xiangqi_game)  
-<<<<<<< HEAD
-  基于 C++17 与 EasyX 实现完整象棋规则，并接入 Pikafish 与 NNUE，支持高质量机器人对战。
-
-- [飞行棋游戏](https://github.com/15723209543/FlightChess-GAME)  
-  基于 C++ 与 EasyX 实现 2–6 人飞行棋，支持计时、特殊棋盘规则、完整排名与机器人玩家。
-=======
   基于 C++17 与 EasyX 实现完整象棋规则，并接入 Pikafish 与 NNUE，支持机器人对战。
 
 - [飞行棋游戏](https://github.com/15723209543/FlightChess-GAME)  
   基于 C++ 与 EasyX 实现多人飞行棋，支持计时、特殊棋盘规则、完整排名与机器人玩家。
->>>>>>> a571059 (20260927)
 
 - [重庆地图大富翁](https://github.com/15723209543/MonopolyGame_map-with-chongqing)  
   以重庆地图为主题设计的大富翁游戏项目。
@@ -161,6 +152,7 @@
 ## 📊 GitHub 数据
 
 <div align="center">
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=15723209543&theme=github" width="100%" alt="GitHub Profile Details" />
 
@@ -185,14 +177,17 @@
   <a href="mailto:15723209543@163.com"><img src="https://img.shields.io/badge/邮箱-15723209543%40163.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="邮箱" /></a>
 </p>
 
+
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=15723209543&color=ff6b9d&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
+
 <h3 align="center">✨ 感谢您的访问！✨</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer" width="100%" alt="Footer" />
 </p>
+
