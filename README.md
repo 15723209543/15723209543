@@ -125,7 +125,7 @@
   <h3>📡 <a href="https://github.com/15723209543/ClassConfusionRadar">课堂困惑雷达</a></h3>
   <p><strong>React 18 · TypeScript · FastAPI · ECharts</strong></p>
   <p>面向教师的课堂困惑识别与再教学辅助系统，整合测验、代码提交、互动和教学时间轴等数据，提供可解释的困惑评分、教学建议与效果复评。</p>
-  <p>🏆 安徽省大数据与人工智能大赛省三等奖 · iCAN 安徽赛区省二等奖<br/>📜 项目仓库声明已取得软件著作权</p>
+  <p>🏆 安徽省大数据与人工智能大赛省三等奖 · iCAN 安徽赛区省二等奖<br/>📜 本项目已取得软件著作权</p>
 </td>
 <td width="50%" valign="top">
   <h3>🎓 <a href="https://github.com/15723209543/postgraduate-recommendation-assistant">推免智策 · 升学规划 Agent</a></h3>
@@ -187,8 +187,8 @@
 | [互助帮 · 大学生学习互助网站](https://github.com/15723209543/huzhubang-website) | 课程资料、学习疑问、学习搭子和校园信息的本地网站原型。 |
 | [HFUT 程序设计类课程资料](https://github.com/15723209543/HFUT-Programming-Course-Resources) | 整理程序设计基础、数据结构等课程资料的离线学习网站。 |
 | [班级作业检查系统](https://github.com/15723209543/homework-submission-audit) | 自动检查班级作业提交情况，分类问题并汇总结果。 |
-| [校园水电煤气管理系统](https://github.com/15723209543/HFUT-Campus-Utility-Billing-Management-System) | 基于 C++ 面向对象设计的校园公用事业费用管理练习。<br/>📜 项目仓库声明已取得软件著作权 |
-| [校园导游咨询系统](https://github.com/15723209543/HFUT-navigation-system-with-dijkstra-algorithm) | 利用带权图与 Dijkstra 算法实现校园地点查询与最短路径规划。<br/>📜 项目仓库声明已取得软件著作权 |
+| [校园水电煤气管理系统](https://github.com/15723209543/HFUT-Campus-Utility-Billing-Management-System) | 基于 C++ 面向对象设计的校园公用事业费用管理练习。<br/>📜 本项目已取得软件著作权 |
+| [校园导游咨询系统](https://github.com/15723209543/HFUT-navigation-system-with-dijkstra-algorithm) | 利用带权图与 Dijkstra 算法实现校园地点查询与最短路径规划。<br/>📜 本项目已取得软件著作权 |
 
 ### 🔧 嵌入式与硬件展示
 
