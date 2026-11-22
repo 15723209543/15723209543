@@ -187,8 +187,8 @@
 | [互助帮 · 大学生学习互助网站](https://github.com/15723209543/huzhubang-website) | 课程资料、学习疑问、学习搭子和校园信息的本地网站原型。 |
 | [HFUT 程序设计类课程资料](https://github.com/15723209543/HFUT-Programming-Course-Resources) | 整理程序设计基础、数据结构等课程资料的离线学习网站。 |
 | [班级作业检查系统](https://github.com/15723209543/homework-submission-audit) | 自动检查班级作业提交情况，分类问题并汇总结果。 |
-| [校园水电煤气管理系统](https://github.com/15723209543/HFUT-Campus-Utility-Billing-Management-System) | 基于 C++ 面向对象设计的校园公用事业费用管理练习。 |
-| [校园导游咨询系统](https://github.com/15723209543/HFUT-navigation-system-with-dijkstra-algorithm) | 利用带权图与 Dijkstra 算法实现校园地点查询与最短路径规划。 |
+| [校园水电煤气管理系统](https://github.com/15723209543/HFUT-Campus-Utility-Billing-Management-System) | 基于 C++ 面向对象设计的校园公用事业费用管理练习。<br/>📜 项目仓库声明已取得软件著作权 |
+| [校园导游咨询系统](https://github.com/15723209543/HFUT-navigation-system-with-dijkstra-algorithm) | 利用带权图与 Dijkstra 算法实现校园地点查询与最短路径规划。<br/>📜 项目仓库声明已取得软件著作权 |
 
 ### 🔧 嵌入式与硬件展示
 
