@@ -58,6 +58,7 @@
 </p>
 
 
+
 ### 🗄️ 后端与数据库
 
 <p align="center">
@@ -76,6 +77,7 @@
   <img src="https://img.shields.io/badge/STC8-5D6970?style=for-the-badge" alt="STC8" />
   <img src="https://img.shields.io/badge/EasyX-2F80ED?style=for-the-badge" alt="EasyX" />
 </p>
+
 
 
 ### 🛠️ 协作工具
@@ -125,7 +127,7 @@
   <h3>📡 <a href="https://github.com/15723209543/ClassConfusionRadar">课堂困惑雷达</a></h3>
   <p><strong>React 18 · TypeScript · FastAPI · ECharts</strong></p>
   <p>面向教师的课堂困惑识别与再教学辅助系统，整合测验、代码提交、互动和教学时间轴等数据，提供可解释的困惑评分、教学建议与效果复评。</p>
-  <p>🏆 安徽省大数据与人工智能大赛省三等奖 · iCAN 安徽赛区省二等奖<br/>📜 项目仓库声明已取得软件著作权</p>
+  <p>🏆 安徽省大数据与人工智能大赛省三等奖 · iCAN 安徽赛区省二等奖<br/>📜 本项目已取得软件著作权</p>
 </td>
 <td width="50%" valign="top">
   <h3>🎓 <a href="https://github.com/15723209543/postgraduate-recommendation-assistant">推免智策 · 升学规划 Agent</a></h3>
@@ -178,6 +180,9 @@
 | [README 与 LICENSE 生成 Skill](https://github.com/15723209543/make-readme-and-license) | 按项目证据和固定模板生成、校验 README 与 LICENSE，包含隐私检查。 |
 | [GitHub 主页 README 生成 Skill](https://github.com/15723209543/mygithub-home-readme-maker) | 采集公开仓库信息、生成个人主页内容并校验图片与输出包。 |
 | [数据结构实验生成工具](https://github.com/15723209543/HFUT-Data-Structures-Lab-Builder) | 面向数据结构实验，辅助整理代码工程、测试、报告和验收资料。 |
+| [PPT 自动生成课程笔记 Skill](https://github.com/15723209543/ppt-course-notes-AIskill) | 根据真实课件按章节整理完整课程笔记，讲解概念、公式、例题与易错点；默认在对话框输出。 |
+| [作业自动生成答案 Skill](https://github.com/15723209543/homework-answer-tutor-AIskill) | 按原题、大考点、相关知识、解题过程和卷面答案逐题讲解；默认在对话框输出。 |
+| [考试复习资料自动生成 Skill](https://github.com/15723209543/exam-review-kit-AIskill) | 整合课件、教师重点与错题，按 00—15 类整理复习资料，配套生成 MD/PDF 并打包 ZIP。 |
 
 ### 🏫 校园应用与课程学习
 
@@ -187,8 +192,15 @@
 | [互助帮 · 大学生学习互助网站](https://github.com/15723209543/huzhubang-website) | 课程资料、学习疑问、学习搭子和校园信息的本地网站原型。 |
 | [HFUT 程序设计类课程资料](https://github.com/15723209543/HFUT-Programming-Course-Resources) | 整理程序设计基础、数据结构等课程资料的离线学习网站。 |
 | [班级作业检查系统](https://github.com/15723209543/homework-submission-audit) | 自动检查班级作业提交情况，分类问题并汇总结果。 |
-| [校园水电煤气管理系统](https://github.com/15723209543/HFUT-Campus-Utility-Billing-Management-System) | 基于 C++ 面向对象设计的校园公用事业费用管理练习。 |
-| [校园导游咨询系统](https://github.com/15723209543/HFUT-navigation-system-with-dijkstra-algorithm) | 利用带权图与 Dijkstra 算法实现校园地点查询与最短路径规划。 |
+| [校园水电煤气管理系统](https://github.com/15723209543/HFUT-Campus-Utility-Billing-Management-System) | 基于 C++ 面向对象设计的校园公用事业费用管理练习。<br/>📜 本项目已取得软件著作权 |
+| [校园导游咨询系统](https://github.com/15723209543/HFUT-navigation-system-with-dijkstra-algorithm) | 利用带权图与 Dijkstra 算法实现校园地点查询与最短路径规划。<br/>📜 本项目已取得软件著作权 |
+| [数据结构算法演示网站](https://github.com/15723209543/ds_show_web) | 本地教学演示网站，提供数据结构与算法动画、步骤控制、C++ 源码对照及行高亮；支持 Python 本地服务与 Windows 启动器。 |
+
+### 👁️ 计算机视觉与医学影像
+
+| 项目 | 内容 |
+| --- | --- |
+| [青眼病眼底图像分类竞赛项目](https://github.com/15723209543/jitiaosai2026_qingyanbing) | 围绕竞赛眼底图像分类任务，归档 ConvNeXt 双模型融合的训练、验证、预测代码与提交材料；仅用于竞赛研究，不属于临床诊断系统。 |
 
 ### 🔧 嵌入式与硬件展示
 
