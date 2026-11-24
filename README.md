@@ -183,6 +183,7 @@
 | [PPT 自动生成课程笔记 Skill](https://github.com/15723209543/ppt-course-notes-AIskill) | 根据真实课件按章节整理完整课程笔记，讲解概念、公式、例题与易错点；默认在对话框输出。 |
 | [作业自动生成答案 Skill](https://github.com/15723209543/homework-answer-tutor-AIskill) | 按原题、大考点、相关知识、解题过程和卷面答案逐题讲解；默认在对话框输出。 |
 | [考试复习资料自动生成 Skill](https://github.com/15723209543/exam-review-kit-AIskill) | 整合课件、教师重点与错题，按 00—15 类整理复习资料，配套生成 MD/PDF 并打包 ZIP。 |
+| [软件著作权申报资料自动生成 Skill](https://github.com/15723209543/software-copyright-materials-AIskill) | 按上传的源码及配套说明资料，生成用于软件著作权申请的文档和提示并打包 ZIP。 |
 
 ### 🏫 校园应用与课程学习
 
